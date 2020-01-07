@@ -2,4 +2,7 @@ class Dog
 end
 
 class Dog
-  def 
+  def bark
+    bark = "Woof!"
+  end
+end
